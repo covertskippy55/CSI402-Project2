@@ -1,0 +1,9 @@
+
+Information about control packets:
+
+Number of packets    = 5
+Largest packet ID    = 27
+Missing packet IDs: 0, 1, 3-8, 10-12, 14, 15, 17-26
+
+
+The input file does not have any data packets.
